@@ -1,0 +1,73 @@
+{
+
+	"skills":{
+		"programming":[
+			{"skill":"JavaScript"},
+			{"skill":"HTML"},
+			{"skill":"CSS"},
+			{"skill":"jQuery"},
+			{"skill":"Bootstrap"},
+			{"skill":"BackBone"},
+			{"skill":"Git/GitHub"}
+		],
+		"other":[
+			{"skill":"Blender"},
+			{"skill":"Photoshop"},
+			{"skill":"Illustrator"},
+			{"skill":"Indesign"},
+			{"skill":"Keyshot"},
+			{"skill":"Fusion 360"}
+		]
+	},
+
+
+	"education":[
+		{
+			"name":"Udacity",
+			"year":"2015-2016",
+			"major":"Front-End Web Developer Nanodegree"
+		},
+		{
+			"name":"Shillington School",
+			"year":"2013-2014",
+			"major":"graphic design"
+		},
+		{
+			"name":"Polytechnic Institute of NYU",
+			"year":"2006-2010",
+			"major":"BS. Integrated Digital Media"
+		}
+	],
+
+
+	"work":[
+		{
+			"name":"Cerybrum / lifegunk",
+			"position":"developer",
+			"year":"Dec 2015-present",
+			"description":" Web platform to track ideas and goals. Helped create entry forms and ability to give and share entries. Using JavaScript, Jquery, Bootstrap, C#,.Net."
+		},
+		{
+			"name":"imagemme",
+			"position":"designer",
+			"year":"Aug 2014-present",
+			"description":"Creating packaging and product renders in keyshot, to help express ideas to clients. Creating packaging dilines and cad models in Fusion 360. Working on packaging, presentations, websites and print material using the Adobe suite."
+		},
+		{
+			"name":"Quad Graphics",
+			"position":"Consultant",
+			"year":"Sept 2014-Oct2015",
+			"description":"Helped create and update mobile augment reality experiences, using Actable and Unity 3d."
+		}
+
+	],
+
+
+	"contact":{
+		"email":"concoctionfactory@gmail.com",
+		"github":"github.com/concoctionfactory@github",
+		"location":"New York City",
+		"name":"david lee"
+	}
+
+}
